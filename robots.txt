@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://alducheol.github.io/sitemap.html.gz
+Sitemap: https://alducheol.github.io/app/sitemap.html.gz
+Sitemap: https://alducheol.github.io/assets/sitemap.html.gz
+Sitemap: https://alducheol.github.io/css/sitemap.html.gz
+Sitemap: https://alducheol.github.io/includes/sitemap.html.gz
+Sitemap: https://alducheol.github.io/item/sitemap.html.gz
+Sitemap: https://alducheol.github.io/src/sitemap.html.gz
